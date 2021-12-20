@@ -25,7 +25,7 @@ int main()
 
     resul=(base*altura)/2;
 
-    cout<<"el area del triangulo es: "<<resul;
+    cout<<"el area del triangulo es: "<<resul;  //No se pudo pa
     
     cout << endl;
     cout << endl;
